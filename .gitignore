@@ -1,0 +1,9 @@
+.Trash-0/
+dataset/original_videos/
+goturn-pytorc
+# Ignore editor swap files
+*.swp
+
+# Ignore Python cache files
+__pycache__/
+*.pych
